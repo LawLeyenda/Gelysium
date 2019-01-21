@@ -15,7 +15,7 @@ gem 'rails_12factor', group: :production
 
 gem 'minitest', group: :test
 gem 'minitest-reporters', group: :test
-
+gem 'bcrypt'
 gem 'guard'
 
 # Use Puma as the app server
