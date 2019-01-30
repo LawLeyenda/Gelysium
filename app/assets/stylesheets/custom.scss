@@ -64,10 +64,15 @@ p {
   line-height: 1.7em;
 }
 
-
+#rightImg {
+  float: left;
+  width: 55px;
+  height: auto;
+}
 
 #logo {
   float: left;
+  margin-left: 10px;
   margin-right: 10px;
   font-size: 1.7em;
   color: #fff;
