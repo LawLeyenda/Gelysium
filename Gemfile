@@ -17,7 +17,7 @@ gem 'minitest', group: :test
 gem 'minitest-reporters', group: :test
 gem 'bcrypt'
 gem 'guard'
-
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
