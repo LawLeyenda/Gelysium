@@ -12,6 +12,9 @@ gem 'sqlite3', group: :development
 gem 'pg', '0.18.1', group: :production
 gem 'rails_12factor', group: :production
 
+gem 'faker'
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 
 gem 'minitest', group: :test
 gem 'minitest-reporters', group: :test
