@@ -56,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -553,7 +553,7 @@
       <workItem from="1550737941830" duration="9504000" />
       <workItem from="1550900460360" duration="574000" />
       <workItem from="1550939824262" duration="1305000" />
-      <workItem from="1551109058846" duration="598000" />
+      <workItem from="1551109058846" duration="947000" />
     </task>
     <task id="LOCAL-00001" summary="A little customization for Gelysium">
       <created>1548799551690</created>
@@ -660,11 +660,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551109174496</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="changed main image. Copyright free image.">
+      <created>1551135990265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551135990265</updated>
+    </task>
+    <task id="LOCAL-00017" summary="changed main image. Copyright free image.2">
+      <created>1551136065097</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551136065097</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138280000" />
+    <option name="totallyTimeSpent" value="138629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -683,15 +697,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.41659465" weight="0.27914438" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.416309" visible="true" weight="0.27885503" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840257" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991453" weight="0.32941177" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4984672" weight="0.32871652" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.49822485" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.49785408" weight="0.32871652" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4982906" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.5837651" side_tool="true" visible="true" weight="0.31117266" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.583691" side_tool="true" visible="true" weight="0.27885503" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50630254" side_tool="true" weight="0.3187166" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49968964" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -781,7 +795,9 @@
     <MESSAGE value="email fix syntax" />
     <MESSAGE value="password reset" />
     <MESSAGE value="I accidentally pushed this git. The code was supposed to be for debugging a different project. Whoops." />
-    <option name="LAST_COMMIT_MESSAGE" value="I accidentally pushed this git. The code was supposed to be for debugging a different project. Whoops." />
+    <MESSAGE value="changed main image. Copyright free image." />
+    <MESSAGE value="changed main image. Copyright free image.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed main image. Copyright free image.2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/mailers/previews/user_mailer_preview.rb">
@@ -1094,7 +1110,7 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
