@@ -1,44 +1,43 @@
 source 'https://rubygems.org'
 
-gem 'rails'
-gem 'bcrypt'
-gem 'faker'
-gem 'carrierwave'
-gem 'mini_magick'
-gem 'will_paginate'
-gem 'bootstrap-will_paginate'
-gem 'bootstrap-sass'
-gem 'puma'
-gem 'sass-rails'
-gem 'uglifier'
-gem 'coffee-rails'
-gem 'jquery-rails'
-gem 'turbolinks'
-gem 'jbuilder'
+gem 'rails',                    '5.1.2'
+gem 'bcrypt',                   '3.1.11'
+gem 'faker',                    '1.7.3'
+gem 'carrierwave',              '1.1.0'
+gem 'mini_magick',              '4.7.0'
+gem 'fog',                      '1.40.0'
+gem 'will_paginate',            '3.1.5'
+gem 'bootstrap-will_paginate',  '1.0.0'
+gem 'bootstrap-sass',           '3.3.7'
+gem 'puma',                     '3.9.1'
+gem 'sass-rails',               '5.0.6'
+gem 'uglifier',                 '3.2.0'
+gem 'coffee-rails',             '4.2.2'
+gem 'jquery-rails',             '4.3.1'
+gem 'turbolinks',               '5.0.1'
+gem 'jbuilder',                 '2.7.0'
 
 group :development, :test do
-  gem 'sqlite3'
-  gem 'byebug', platform: :mri
+  gem 'sqlite3', '1.3.13' # This concerns me. In the Hartl book footnotes and in Odin's Deployment lesson, it recommends switching from sqlite3 to postgresql asap for simplicity.
+  gem 'byebug',  '9.0.6', platform: :mri
 end
 
 group :development do
-  gem 'web-console'
-  gem 'listen'
-  gem 'spring'
-  gem 'spring-watcher-listen'
+  gem 'web-console',           '3.5.1'
+  gem 'listen',                '3.0.8'
+  gem 'spring',                '2.0.2'
+  gem 'spring-watcher-listen', '2.0.1'
 end
 
 group :test do
-  gem 'rails-controller-testing'
-  gem 'minitest'
-  gem 'minitest-reporters'
-  gem 'guard'
-  gem 'guard-minitest'
+  gem 'rails-controller-testing', '1.0.2'
+  gem 'minitest-reporters',       '1.1.14'
+  gem 'guard',                    '2.13.0'
+  gem 'guard-minitest',           '2.4.4'
 end
 
 group :production do
-  gem 'pg'
-  gem 'fog-aws'
+  gem 'pg', '0.18.4'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

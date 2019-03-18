@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd3f31b-8b4f-43e0-9189-39f6519c8744" name="Default Changelist" comment="add user microposts.19">
-      <change beforePath="$PROJECT_DIR$/.idea/sample_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-    </list>
+    <list default="true" id="1dd3f31b-8b4f-43e0-9189-39f6519c8744" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -77,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="570">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -553,7 +548,7 @@
       <workItem from="1551426791414" duration="17000" />
       <workItem from="1551426905171" duration="1098000" />
       <workItem from="1551515285737" duration="177000" />
-      <workItem from="1552198434532" duration="29315000" />
+      <workItem from="1552198434532" duration="29810000" />
     </task>
     <task id="LOCAL-00001" summary="A little customization for Gelysium">
       <created>1548799551690</created>
@@ -835,11 +830,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552900489295</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="add user microposts.20">
+      <created>1552900822871</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1552900822871</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add user microposts.20">
+      <created>1552901041458</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1552901041458</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171568000" />
+    <option name="totallyTimeSpent" value="172063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -852,7 +861,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="769" y="23" width="909" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35409456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -942,7 +950,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chp 11 - Account activation and email" />
     <MESSAGE value="email fix syntax" />
     <MESSAGE value="password reset" />
     <MESSAGE value="I accidentally pushed this git. The code was supposed to be for debugging a different project. Whoops." />
@@ -967,7 +974,8 @@
     <MESSAGE value="add user microposts.15" />
     <MESSAGE value="add user microposts.16" />
     <MESSAGE value="add user microposts.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="add user microposts.17" />
+    <MESSAGE value="add user microposts.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="add user microposts.20" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
@@ -1294,8 +1302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="570">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
         </state>
       </provider>
     </entry>
