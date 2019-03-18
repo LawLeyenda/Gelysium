@@ -11,7 +11,7 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'sqlite3', group: :development
 gem 'pg', '0.18.1', group: :production
 gem 'rails_12factor', group: :production
-gem 'fog-aws', group: :production
+gem 'fog', group: :production
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'faker'
