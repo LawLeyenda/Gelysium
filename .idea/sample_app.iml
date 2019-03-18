@@ -40,6 +40,9 @@
     <orderEntry type="library" scope="PROVIDED" name="ansi (v1.5.0, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v9.0.0, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v9.4.7, RVM: ruby-2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk (v2.0.0.pre, RVM: ruby-2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-core (v2.0.0, RVM: ruby-2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-resources (v2.0.0.pre, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.12, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.3.2, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootstrap-sass (v3.3.7, RVM: ruby-2.5.3) [gem]" level="application" />
@@ -108,6 +111,7 @@
     <orderEntry type="library" scope="PROVIDED" name="httpclient (v2.8.3, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.5.3, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ipaddress (v0.8.3, RVM: ruby-2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jamespath (v0.5.1, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.8.0, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.3.3, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v2.2.0, RVM: ruby-2.5.3) [gem]" level="application" />
@@ -129,6 +133,7 @@
     <orderEntry type="library" scope="PROVIDED" name="minitest-reporters (v1.3.6, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.2.6, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.13.1, RVM: ruby-2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.6.0, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nenv (v0.3.0, RVM: ruby-2.5.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, RVM: ruby-2.5.3) [gem]" level="application" />
