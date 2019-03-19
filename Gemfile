@@ -8,12 +8,19 @@ gem 'rails', '~> 5.2.2'
 # Use sqlite3 as the database for Active Record
 gem 'bootstrap-sass', '3.3.7'
 
-gem 'sqlite3', group: :development
-gem 'pg', '0.18.1', group: :production
+gem 'sqlite3','~>1.3.6', group: :development
 gem 'rails_12factor', group: :production
-gem 'fog', group: :production
-gem 'carrierwave'
-gem 'mini_magick'
+
+gem 'carrierwave',             '1.2.2'
+gem 'mini_magick',             '4.7.0'
+
+group :production do
+  gem 'pg',  '0.20.0'
+  gem 'fog', '1.42'
+end
+
+
+
 gem 'faker'
 gem 'will_paginate',           '3.1.6'
 gem 'bootstrap-will_paginate', '1.0.0'
