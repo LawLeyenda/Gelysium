@@ -19,6 +19,7 @@ group :production do
   gem 'fog', '1.42'
 end
 
+gem 'asset_sync'
 
 
 gem 'faker'
